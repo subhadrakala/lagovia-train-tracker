@@ -2,7 +2,7 @@ class StationCache {
     constructor() {
         this.stations = null;
         this.lastFetchTime = null;
-        this.ttl = 1 * 60 * 1000; // 1 minute
+        this.ttl = 86400000; // 24 hours
     }
     async fetchStations() {
         try {
