@@ -16,7 +16,31 @@ export const getDepartures = async (req, res, next) => {
 
         let liveboard = await Promise.all(liveboardPromises);
 
-        return liveboard;
+        let liveboardinfo = {};
+
+        liveboard.forEach((item) => {
+            if (item.departures && item.departures.number > 0) {
+                let departureList = [];
+                let departures = item.departures.departure;
+                departures.forEach(departure => {
+                    if ((departure.time * 1000) < (Date.now() + 15 * 60 * 1000)) {
+                        const time = new Date(departure.time * 1000).toLocaleTimeString('en-BE', { timeStyle: 'short', timeZone: 'Europe/Brussels' });
+                        departureList.push({
+                            stationId: item.stationinfo.id,
+                            stationName: item.stationinfo.standardname,
+                            train: departure.vehicleinfo.shortname,
+                            destination: departure.station,
+                            departureTime: time,
+                            cancelled: departure.canceled == "0" ? false : true,
+                            delay: parseInt(departure.delay, 10) / 60
+                        });
+                    }
+                });
+                liveboardinfo[item.stationinfo.standardname] = departureList;
+            }
+        });
+
+        return liveboardinfo;
     } catch (error) {
         next(error);
     }
