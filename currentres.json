@@ -1,0 +1,547 @@
+{
+    "Brugelette": [
+        {
+            "stationId": "BE.NMBS.008886066",
+            "stationName": "Brugelette",
+            "train": "L 4866",
+            "destination": "Quevy",
+            "departureTime": "1781967960",
+            "cancelled": false,
+            "delay": 0
+        }
+    ],
+    "Brugge": [
+        {
+            "stationId": "BE.NMBS.008891009",
+            "stationName": "Brugge",
+            "train": "IC 537",
+            "destination": "Oostende",
+            "departureTime": "1781967720",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008891009",
+            "stationName": "Brugge",
+            "train": "IC 2316",
+            "destination": "Kortrijk",
+            "departureTime": "1781967900",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008891009",
+            "stationName": "Brugge",
+            "train": "EXT 18217",
+            "destination": "Leuven",
+            "departureTime": "1781968080",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008891009",
+            "stationName": "Brugge",
+            "train": "IC 2816",
+            "destination": "Liège-Guillemins",
+            "departureTime": "1781968260",
+            "cancelled": false,
+            "delay": 1
+        }
+    ],
+    "Brugge-Sint-Pieters": [],
+    "Brussels Airport - Zaventem": [
+        {
+            "stationId": "BE.NMBS.008819406",
+            "stationName": "Brussels Airport - Zaventem",
+            "train": "EC 9244",
+            "destination": "Brussels-South/Brussels-Midi",
+            "departureTime": "1781967240",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008819406",
+            "stationName": "Brussels Airport - Zaventem",
+            "train": "S19 4038",
+            "destination": "Brussels-Luxemburg/Brussels-Luxembourg",
+            "departureTime": "1781967900",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008819406",
+            "stationName": "Brussels Airport - Zaventem",
+            "train": "EC 9255",
+            "destination": "Breda",
+            "departureTime": "1781968260",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008819406",
+            "stationName": "Brussels Airport - Zaventem",
+            "train": "IC 2340",
+            "destination": "Kortrijk",
+            "departureTime": "1781968380",
+            "cancelled": false,
+            "delay": 0
+        }
+    ],
+    "Brussel-Centraal/Bruxelles-Central": [
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "S2 3766",
+            "destination": "Leuven",
+            "departureTime": "1781967840",
+            "cancelled": false,
+            "delay": 2
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "IC 1938",
+            "destination": "Ath",
+            "departureTime": "1781967960",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "S10 2067",
+            "destination": "Aalst",
+            "departureTime": "1781967960",
+            "cancelled": false,
+            "delay": 1
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "IC 2517",
+            "destination": "Dinant",
+            "departureTime": "1781968020",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "S8 6588",
+            "destination": "Zottegem",
+            "departureTime": "1781968140",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "EXT 18216",
+            "destination": "Leuven",
+            "departureTime": "1781968320",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "S3 2288",
+            "destination": "Denderleeuw",
+            "departureTime": "1781968320",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "EC 9244",
+            "destination": "Brussels-South/Brussels-Midi",
+            "departureTime": "1781968380",
+            "cancelled": false,
+            "delay": 11
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "IC 3716",
+            "destination": "Brussels Airport - Zaventem",
+            "departureTime": "1781968440",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "IC 3614",
+            "destination": "Leuven",
+            "departureTime": "1781968560",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "IC 2238",
+            "destination": "Ghent-Sint-Pieters",
+            "departureTime": "1781968560",
+            "cancelled": false,
+            "delay": 5
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "IC 2815",
+            "destination": "Liège-Guillemins",
+            "departureTime": "1781968680",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008813003",
+            "stationName": "Brussel-Centraal/Bruxelles-Central",
+            "train": "L 13230",
+            "destination": "Brussels-South/Brussels-Midi",
+            "departureTime": "1781968680",
+            "cancelled": false,
+            "delay": 1
+        }
+    ],
+    "Brussel-Luxemburg/Bruxelles-Luxembourg": [
+        {
+            "stationId": "BE.NMBS.008811304",
+            "stationName": "Brussel-Luxemburg/Bruxelles-Luxembourg",
+            "train": "IC 2137",
+            "destination": "Brussels-South/Brussels-Midi",
+            "departureTime": "1781967900",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008811304",
+            "stationName": "Brussel-Luxemburg/Bruxelles-Luxembourg",
+            "train": "S8 6565",
+            "destination": "Ottignies",
+            "departureTime": "1781968140",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008811304",
+            "stationName": "Brussel-Luxemburg/Bruxelles-Luxembourg",
+            "train": "S5 3366",
+            "destination": "Mechelen",
+            "departureTime": "1781968320",
+            "cancelled": false,
+            "delay": 1
+        }
+    ],
+    "Brussel-Noord/Bruxelles-Nord": [
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "IC 1915",
+            "destination": "Brussels Airport - Zaventem",
+            "departureTime": "1781967840",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "S8 6588",
+            "destination": "Zottegem",
+            "departureTime": "1781967900",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "IC 515",
+            "destination": "Eupen",
+            "departureTime": "1781968020",
+            "cancelled": false,
+            "delay": 1
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "S3 2288",
+            "destination": "Denderleeuw",
+            "departureTime": "1781968080",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "EC 9244",
+            "destination": "Brussels-South/Brussels-Midi",
+            "departureTime": "1781968080",
+            "cancelled": false,
+            "delay": 12
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "IC 3116",
+            "destination": "Antwerp-Central",
+            "departureTime": "1781968140",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "S2 3766",
+            "destination": "Leuven",
+            "departureTime": "1781968200",
+            "cancelled": false,
+            "delay": 1
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "IC 2238",
+            "destination": "Ghent-Sint-Pieters",
+            "departureTime": "1781968260",
+            "cancelled": false,
+            "delay": 6
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "S10 2067",
+            "destination": "Aalst",
+            "departureTime": "1781968320",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "IC 2517",
+            "destination": "Dinant",
+            "departureTime": "1781968440",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "L 13230",
+            "destination": "Brussels-South/Brussels-Midi",
+            "departureTime": "1781968440",
+            "cancelled": false,
+            "delay": 1
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "IC 1538",
+            "destination": "Blankenberge",
+            "departureTime": "1781968500",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "IC 3438",
+            "destination": "La Louvière-Centre",
+            "departureTime": "1781968680",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "EXT 18216",
+            "destination": "Leuven",
+            "departureTime": "1781968680",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008812005",
+            "stationName": "Brussel-Noord/Bruxelles-Nord",
+            "train": "IC 2137",
+            "destination": "Brussels-South/Brussels-Midi",
+            "departureTime": "1781968740",
+            "cancelled": false,
+            "delay": 0
+        }
+    ],
+    "Brussel-Schuman/Bruxelles-Schuman": [
+        {
+            "stationId": "BE.NMBS.008811916",
+            "stationName": "Brussel-Schuman/Bruxelles-Schuman",
+            "train": "S8 6565",
+            "destination": "Ottignies",
+            "departureTime": "1781967960",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008811916",
+            "stationName": "Brussel-Schuman/Bruxelles-Schuman",
+            "train": "IC 2137",
+            "destination": "Brussels-South/Brussels-Midi",
+            "departureTime": "1781968140",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008811916",
+            "stationName": "Brussel-Schuman/Bruxelles-Schuman",
+            "train": "S5 3366",
+            "destination": "Mechelen",
+            "departureTime": "1781968500",
+            "cancelled": false,
+            "delay": 1
+        },
+        {
+            "stationId": "BE.NMBS.008811916",
+            "stationName": "Brussel-Schuman/Bruxelles-Schuman",
+            "train": "S4 2166",
+            "destination": "Brussels-Luxemburg/Brussels-Luxembourg",
+            "departureTime": "1781968620",
+            "cancelled": false,
+            "delay": 0
+        }
+    ],
+    "Brussel-Zuid/Bruxelles-Midi": [
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "EUR 9143",
+            "destination": "London Saint Pancras International",
+            "departureTime": "1781959860",
+            "cancelled": false,
+            "delay": 146
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "EXT 18216",
+            "destination": "Leuven",
+            "departureTime": "1781968020",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "IC 3716",
+            "destination": "Brussels Airport - Zaventem",
+            "departureTime": "1781968140",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "IC 3614",
+            "destination": "Leuven",
+            "departureTime": "1781968260",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "IC 2815",
+            "destination": "Liège-Guillemins",
+            "departureTime": "1781968380",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "IC 1938",
+            "destination": "Ath",
+            "departureTime": "1781968440",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "BUS 703137",
+            "destination": "Nivelles",
+            "departureTime": "1781968560",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "EUR 9364",
+            "destination": "Paris Nord",
+            "departureTime": "1781968560",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "S8 6588",
+            "destination": "Zottegem",
+            "departureTime": "1781968560",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "IC 3217",
+            "destination": "Dendermonde",
+            "departureTime": "1781968620",
+            "cancelled": false,
+            "delay": 0
+        },
+        {
+            "stationId": "BE.NMBS.008814001",
+            "stationName": "Brussel-Zuid/Bruxelles-Midi",
+            "train": "S3 2288",
+            "destination": "Denderleeuw",
+            "departureTime": "1781968740",
+            "cancelled": false,
+            "delay": 0
+        }
+    ],
+    "Brussel-West/Bruxelles-Ouest": [
+        {
+            "stationId": "BE.NMBS.008815040",
+            "stationName": "Brussel-West/Bruxelles-Ouest",
+            "train": "S10 3887",
+            "destination": "Dendermonde",
+            "departureTime": "1781967900",
+            "cancelled": false,
+            "delay": 1
+        }
+    ],
+    "Gentbrugge": [
+        {
+            "stationId": "BE.NMBS.008893179",
+            "stationName": "Gentbrugge",
+            "train": "S53 687",
+            "destination": "Ghent-Sint-Pieters",
+            "departureTime": "1781968140",
+            "cancelled": false,
+            "delay": 0
+        }
+    ],
+    "Zeebrugge-Strand": [
+        {
+            "stationId": "BE.NMBS.008891173",
+            "stationName": "Zeebrugge-Strand",
+            "train": "L 567",
+            "destination": "Londerzeel",
+            "departureTime": "1781968260",
+            "cancelled": false,
+            "delay": 0
+        }
+    ]
+}

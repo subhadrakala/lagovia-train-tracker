@@ -6,8 +6,11 @@ export const getDepartures = async (req, res, next) => {
         let stations = await stationCache.fetchStations();
 
         let matchingStations = stations.filter((station) => {
-            return station.name.toLowerCase().includes(req.query.q.toLowerCase());
+            const query = req.query.q.toLowerCase();
+            return station.name.toLowerCase().includes(query) ||
+                station.standardname.toLowerCase().includes(query);
         });
+
 
         let liveboardPromises = matchingStations.map(async (station) => {
             const data = await liveboardCache.fetchLiveboardForStationId(station.id);
