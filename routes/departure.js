@@ -4,6 +4,7 @@ import { validateRequest } from "../middleware/validations.js";
 import * as departureValidations from "../validations/departureValidation.js"
 const router = express.Router();
 
+
 router.route('/departures')
    .get(
         validateRequest(departureValidations.departureValidation), 
